@@ -1,0 +1,98 @@
+#infofact1 > #mbox1, 
+#infofact1 > #fbox1, 
+#infofact1 > #malechart, 
+#infofact1 > #femalechart,
+#infofact2 > #mbox2, 
+#infofact2 > #fbox2,
+#infofact4 > #red,
+#infofact4 > #blue, 
+#infofact4 > #grey,
+#infofact5 > #guetta,
+#infofact5 > #calvin,
+#infofact5 > #aoki,
+#infofact5 > #tiesto,
+#infofact5 > #skrillex,
+#fact2n6,
+#fact2n12,
+#fact2n18,
+#fact2n25,
+#fact2n35,
+#fact2n50,
+#fact2socialmedia,
+#fact2online,
+#fact2radiotv,
+#fact2print{
+
+    cursor: pointer;
+}
+
+#infofact1 > #fact1M, 
+#infofact1 > #fact1F, 
+#infofact1 > #fact1num1, 
+#infofact1 > #fact1num2,
+#infofact2 > #fact2M, 
+#infofact2 > #fact2F,
+#infofact4 > #fact4rednum,
+#infofact4 > #fact4greynum, 
+#infofact4 > #fact4bluenum,
+#infofact4 > #fact4festtxt,
+#infofact4 > #fact4musictxt, 
+#infofact4 > #fact4othertxt,
+#infofact5 > #fact5rank1,
+#infofact5 > #fact5rank2,
+#infofact5 > #fact5rank3,
+#infofact5 > #fact5rank4{
+    display: none;
+}
+
+
+#fact2per1m,
+#fact2per2m,
+#fact2per3m,
+#fact2per4m,
+#fact2per5m,
+#fact2per6m,
+#fact2per1f,
+#fact2per2f,
+#fact2per3f,
+#fact2per4f,
+#fact2per5f,
+#fact2per6f,
+#fact2per1m2,
+#fact2per2m2,
+#fact2per3m2,
+#fact2per4m2,
+#fact2per1f2,
+#fact2per2f2,
+#fact2per3f2,
+#fact2per4f2{
+    display: none;
+}
+
+
+.result_hover {
+    border: 10px solid #000;
+  }
+
+#f6 > rect, 
+#m6 > rect, 
+#f12 > rect, 
+#m12 > rect,
+#f18 > rect, 
+#m18 > rect, 
+#f25 > rect, 
+#m25 > rect,
+#f35 > rect, 
+#m35 > rect, 
+#f50 > rect, 
+#m50 > rect,
+#edm67 > rect,
+#edm46 > rect,
+#edm42 > rect,
+#edm23 > rect,
+#fan40 > rect,
+#fan34 > rect,
+#fan57 > rect,
+#fan33 > rect{
+    display: none;
+} 
